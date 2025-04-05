@@ -3,7 +3,7 @@
 Este repositório contém o plano de estudos pessoal para minha transição de carreira da área de educação para o desenvolvimento back-end.
 
 ## 🛠️ Stack de Estudo
-- Linguagem: Node.js (JavaScript) ou Python (Flask/Django)
+- Linguagem: Python (com foco futuro em Flask)
 - Banco de dados: PostgreSQL ou MongoDB
 - API: RESTful
 
@@ -11,71 +11,67 @@ Este repositório contém o plano de estudos pessoal para minha transição de c
 
 ## 📅 Roteiro Semanal (8 Semanas)
 
-### 🔹 Semana 1 – Setup Inicial
-- [x] Escolher linguagem (Node.js ou Python)
+### 🔹 Semana 1 – Setup Inicial ✅
+- [x] Escolher linguagem (Python)
 - [x] Instalar VS Code + extensões
-- [x] Instalar ambiente de execução
-- [ ] Criar primeiro servidor local
-- [ ] Fazer rota GET que retorna um JSON
+- [x] Instalar ambiente Python corretamente
+- [x] Criar pasta e estrutura inicial do projeto
+- [x] Criar arquivo hello.py
+- [x] Rodar com `print("Hello, world!")` via terminal
+- [x] Executar via botão Play no VS Code
+
+> 🔥 Status: Completíssimo. Está vivo, funcionando e pronto para o próximo passo.
 
 ---
 
 ### 🔹 Semana 2 – Fundamentos da Linguagem
-- [ ] Variáveis, loops, funções, objetos/classes
-- [ ] Exercícios práticos (Codewars, HackerRank)
-- [ ] Criar script CLI simples
+- [ ] Revisar variáveis, loops, funções, listas, dicionários
+- [ ] Fazer exercícios no HackerRank ou Codewars (nível iniciante)
+- [ ] Criar script simples em Python puro (ex: conversor de temperatura)
+- [ ] Fazer primeiro commit real no GitHub com esse código
 
 ---
 
 ### 🔹 Semana 3 – API + Rotas
-- [ ] Criar API com GET, POST, PUT, DELETE
-- [ ] Usar Postman ou Insomnia para testes
-- [ ] Criar lógica de mini aplicação REST
+- [ ] Criar primeiro servidor com Flask
+- [ ] Criar rota `/hello` retornando JSON
+- [ ] Usar Postman ou navegador pra testar
 
 ---
 
 ### 🔹 Semana 4 – Banco de Dados
 - [ ] SQL básico (CRUD)
-- [ ] Criar banco no PostgreSQL/MongoDB
-- [ ] Conectar API ao banco
-- [ ] Implementar operações de leitura/gravação
+- [ ] Criar banco local com SQLite ou PostgreSQL
+- [ ] Conectar com Flask
 
 ---
 
 ### 🔹 Semana 5 – Projeto CRUD Completo
 - [ ] Criar app funcional (ex: tarefas, usuários)
-- [ ] Validar dados (ex: Joi, Marshmallow)
-- [ ] Organizar código por pastas
-- [ ] Publicar projeto no GitHub
+- [ ] Organizar código em pastas (models, routes, controllers)
 
 ---
 
 ### 🔹 Semana 6 – Autenticação
 - [ ] Estudar JWT
-- [ ] Criar sistema de login/cadastro
-- [ ] Proteger rotas privadas
-- [ ] Criptografar senhas com bcrypt
+- [ ] Implementar login e cadastro com segurança básica
 
 ---
 
 ### 🔹 Semana 7 – Testes + Deploy
-- [ ] Criar testes unitários simples
-- [ ] Configurar ambiente de produção
-- [ ] Fazer deploy (Render, Vercel, Heroku)
-- [ ] Testar rotas com dados reais
+- [ ] Criar testes básicos com PyTest
+- [ ] Fazer deploy do app na nuvem (Render, Railway)
 
 ---
 
 ### 🔹 Semana 8 – Portfólio + Apresentação
 - [ ] Organizar repositórios no GitHub
-- [ ] Escrever READMEs decentes nos projetos
-- [ ] Criar vitrine de back-end júnior
-- [ ] Compartilhar no LinkedIn
+- [ ] Documentar tudo com READMEs bonitos
+- [ ] Compartilhar no LinkedIn sem vergonha
 
 ---
 
 ## 💬 Contato
-Se quiser acompanhar minha jornada, me segue por aqui ou me manda um e-mail: alcantara.rodolfo97@gmail.com
+Me acompanhe por aqui ou mande um e-mail: [alcantara.rodolfo97@gmail.com](mailto:alcantara.rodolfo97@gmail.com)
 
 ---
-adiciona plano de estudo back-end
