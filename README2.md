@@ -12,9 +12,9 @@ Este repositório contém o plano de estudos pessoal para minha transição de c
 ## 📅 Roteiro Semanal (8 Semanas)
 
 ### 🔹 Semana 1 – Setup Inicial
-- [ ] Escolher linguagem (Node.js ou Python)
-- [ ] Instalar VS Code + extensões
-- [ ] Instalar ambiente de execução
+- [x] Escolher linguagem (Node.js ou Python)
+- [x] Instalar VS Code + extensões
+- [x] Instalar ambiente de execução
 - [ ] Criar primeiro servidor local
 - [ ] Fazer rota GET que retorna um JSON
 
