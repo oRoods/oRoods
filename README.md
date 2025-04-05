@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @oRoods
-- 👀 I’m interested in work and create a carrer on technology world.
-- 🌱 I’m currently learning data science, python and java
-- 💞️ I’m looking to collaborate on industry and a new enterprise.
-- 📫 How to reach me email (alcantara.rodolfo97@gmail.com)
+- 👀 I’m interested in work and create a career on technology world.
+- 🌱 I’m currently learning Data Science, Python and Java
+- 💞️ I’m looking to collaborate on exciting tech projects and open-source initiatives.
+- 📫 You can reach me at: [alcantara.rodolfo97@gmail.com](mailto:alcantara.rodolfo97@gmail.com) 
 - 😄 Pronouns: his/he
-- ⚡ Fun fact: I'm a physics teacher, live in Brazil, i like to play guitar and singing.
+- ⚡ Fun fact: I'm a physics teacher from Brazil, and I enjoy playing guitar and singing.
 
 <!---
 oRoods/oRoods is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
